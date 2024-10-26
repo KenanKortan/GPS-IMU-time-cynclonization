@@ -1,3 +1,4 @@
-/.idea
+.idea/
+.env
 *.csv
 time_cyclonization.py
