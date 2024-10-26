@@ -1,4 +1,8 @@
+# Ignore the .idea folder
 .idea/
+
+# Ignore the .env file
 .env
+
+# Ignore all csv files
 *.csv
-time_cyclonization.py
